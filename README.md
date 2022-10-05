@@ -18,7 +18,7 @@ Explore different environment available in the `minigrid` library and create a n
 
 Use the [requirement](requirements.txt) file to install the required libraries for the minigrid environments. For the agent policies you may want to explore this [article](https://www.geeksforgeeks.org/sarsa-reinforcement-learning/) or this [repository](https://github.com/lcswillems/rl-starter-files). And for more information about the minigrid environments visit its [repository](https://github.com/Farama-Foundation/Minigrid/tree/ad6b82ed2811b1f7b3da6c0c0948c8e0bfc8b708).
 
-You can use the [minigrid.py](minigrid.py) file as an example for your first steps in this challenge.
+You can use the [minigrid.py](minigrid.py) file as an example for your first steps in this challenge. It is a good exercise to practice with this [interactive tool](http://rl-lab.com/gridworld-td) as part of an exploration phase of this challenge and reading this [article](https://towardsdatascience.com/td-in-reinforcement-learning-the-easy-way-f92ecfa9f3ce) that explains TD reinforcement learning techniques.
 
 # Virtual environment instructions
 
